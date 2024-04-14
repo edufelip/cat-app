@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889164555828",
+    "project_id": "prototype-682cd",
+    "storage_bucket": "prototype-682cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889164555828:android:94e93aca047df6381c0c61",
+        "android_client_info": {
+          "package_name": "com.edufelip.catapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlRBs0mlvq0FVuS_JpxnQcTRZOMuh6mVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
